@@ -3,6 +3,7 @@
 
 void DrawMain()
 {
+    // 川本退学です
     Clear(kColorBlack);
 
     DrawLine(-320, 0, 319, 0, kColorGray);
