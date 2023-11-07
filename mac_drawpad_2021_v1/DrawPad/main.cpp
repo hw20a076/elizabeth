@@ -37,5 +37,7 @@ void DrawMain()
     DrawText("Hello, world!!", -12*14/2, -66, kColorGray);
     //眠たい...寝たい
     //みそしるちんちん
+    
+    //　ワロタ(^_^;;)
 }
 
